@@ -1,0 +1,21 @@
+nom,description,prix,quantite,reference
+Laptop,Powerful laptop with high performance,899.99,10,REF001
+Smartphone,Advanced smartphone with latest features,699.99,20,REF002
+Headphones,Noise-cancelling headphones with excellent sound quality,149.99,30,REF003
+Tablet,Portable tablet for on-the-go productivity,399.99,15,REF004
+Camera,High-resolution camera for capturing memorable moments,299.99,25,REF005
+Printer,Wireless printer for convenient printing,179.99,5,REF006
+Monitor,Widescreen monitor for immersive viewing experience,249.99,8,REF007
+Keyboard,Ergonomic keyboard for comfortable typing,69.99,12,REF008
+Mouse,Wireless mouse for precise navigation,29.99,40,REF009
+Speaker,Compact speaker with rich sound,99.99,18,REF010
+Smartwatch,Feature-rich smartwatch for fitness and notifications,199.99,22,REF011
+External Hard Drive,Portable external hard drive for data backup,129.99,7,REF012
+Router,High-speed router for seamless internet connectivity,79.99,14,REF013
+Gaming Console,Next-gen gaming console for immersive gaming experience,499.99,3,REF014
+Wireless Earbuds,True wireless earbuds with long battery life,119.99,9,REF015
+Fitness Tracker,Activity tracker for monitoring health and fitness,79.99,17,REF016
+Digital Camera,Compact digital camera for capturing memories,179.99,11,REF017
+Smart TV,Smart TV with built-in streaming apps,799.99,6,REF018
+Drone,Quadcopter drone for aerial photography and videography,299.99,4,REF019
+Smart Thermostat,Smart thermostat for energy-efficient heating and cooling,149.99,13,REF020
